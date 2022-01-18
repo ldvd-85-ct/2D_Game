@@ -1,2 +1,1 @@
-# 2D_Game
-A bidimensional videogame
+A 2D videogame... by Davide Lombardo
